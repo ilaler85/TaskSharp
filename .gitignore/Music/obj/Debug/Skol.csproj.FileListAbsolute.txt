@@ -1,0 +1,14 @@
+D:\Михаил\Прога\Music-master (1)\Music\obj\Debug\Skol.csprojAssemblyReference.cache
+D:\Михаил\Прога\Music-master (1)\Music\obj\Debug\Skol.csproj.CoreCompileInputs.cache
+D:\Михаил\Прога\Music-master (1)\Music\obj\Debug\Music.exe
+D:\Михаил\Прога\Music-master (1)\Music\obj\Debug\Music.pdb
+D:\Михаил\Прога\Music-master (1)\Music\bin\Debug\Music.exe.config
+D:\Михаил\Прога\Music-master (1)\Music\bin\Debug\Music.exe
+D:\Михаил\Прога\Music-master (1)\Music\bin\Debug\Music.pdb
+D:\Михаил\Прога\Scoool\Music\bin\Debug\Music.exe.config
+D:\Михаил\Прога\Scoool\Music\bin\Debug\Music.exe
+D:\Михаил\Прога\Scoool\Music\bin\Debug\Music.pdb
+D:\Михаил\Прога\Scoool\Music\obj\Debug\Skol.csprojAssemblyReference.cache
+D:\Михаил\Прога\Scoool\Music\obj\Debug\Skol.csproj.CoreCompileInputs.cache
+D:\Михаил\Прога\Scoool\Music\obj\Debug\Music.exe
+D:\Михаил\Прога\Scoool\Music\obj\Debug\Music.pdb
